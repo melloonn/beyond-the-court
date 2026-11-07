@@ -73,4 +73,4 @@ node --test tests/interaction.test.cjs
 
 若 Pages 來源選擇 `main` 的根目錄 `/`，根目錄 `index.html` 會直接呈現完整首頁，沿用 `docs/` 中的資產與內容頁；不是轉址頁，也不顯示 README。根目錄 `.nojekyll` 保留靜態檔案。兩種來源都可瀏覽網站。
 
-網站使用米白點點背景、藍色中文大標題及圓角紙卡，提供球員、賽事、故事三個入口。`AGENTS.md` 是 Repository 中的開發規則，網站導覽與訪客頁面不展示規則文件。
+網站採 COURTSIDE 深色籃球設計，以炭灰、勇士藍與金色、球場線條、大字標題和球員肖像，串連比分、全員名單與場外故事。球隊色彩集中於共用 CSS token，方便之後擴充；目前只製作勇士隊。`AGENTS.md` 是 Repository 中的開發規則，網站導覽與訪客頁面不展示規則文件。
