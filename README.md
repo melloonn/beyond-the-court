@@ -71,4 +71,6 @@ node --test tests/interaction.test.cjs
 
 經確認後，使用 `python3 scripts/build.py --pages` 將輸出同步至 `docs/`，保留既有說明文件。GitHub Pages 來源設定為 `main` 分支的 `/docs`，不需 GitHub Actions、npm 或伺服器。變更資料後，重新建置並提交新的 `docs/` 才會更新公開網站。`dist/` 是本機建置輸出，列入 gitignore；`docs/` 是公開發布輸出，需提交。
 
-若 Pages 來源選擇 `main` 的根目錄 `/`，根目錄 `index.html` 會導向 `docs/index.html`；根目錄 `.nojekyll` 保留靜態檔案。兩種來源都可瀏覽網站。本次公開站點已確認入口轉址、網站首頁及部署成功。
+若 Pages 來源選擇 `main` 的根目錄 `/`，根目錄 `index.html` 會直接呈現完整首頁，沿用 `docs/` 中的資產與內容頁；不是轉址頁，也不顯示 README。根目錄 `.nojekyll` 保留靜態檔案。兩種來源都可瀏覽網站。
+
+網站使用米白點點背景、藍色中文大標題及圓角紙卡，提供球員、賽事、故事三個入口。`AGENTS.md` 是 Repository 中的開發規則，網站導覽與訪客頁面不展示規則文件。

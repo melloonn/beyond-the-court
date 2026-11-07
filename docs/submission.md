@@ -14,7 +14,7 @@
 [Beyond the Court｜勇士場上場下](https://melloonn.github.io/beyond-the-court/)
 
 ## 4. AGENTS.md
-Repository 根目錄的 `AGENTS.md` 定義專案目的、頁面結構、設計風格、檔案格式、資料正確性、AI 修改規則、擴充流程與測試。公開網站頁尾也提供文件入口。
+Repository 根目錄的 `AGENTS.md` 定義專案目的、頁面結構、設計風格、檔案格式、資料正確性、AI 修改規則、擴充流程與測試。網站呈現的是完整 HTML 前端；開發規則留在 Repository 中閱讀。
 
 [直接閱讀 AGENTS.md](https://github.com/melloonn/beyond-the-court/blob/main/AGENTS.md)
 

@@ -121,6 +121,7 @@ def main():
             if u.scheme or u.netloc:
                 assert u.scheme in ['http', 'https', 'mailto'], 'Unexpected URL scheme'
                 continue
+            assert not u.path.endswith('.md'), 'Developer Markdown exposed in visitor navigation: ' + link
             assert not u.path.startswith('/'), 'Root-absolute path breaks project Pages: ' + link
             target = (file.parent / unquote(u.path)).resolve() if u.path else file
             if target.is_dir():
@@ -130,6 +131,23 @@ def main():
             if u.fragment and target in parsed:
                 assert unquote(u.fragment) in parsed[target].ids, 'Missing anchor: ' + link
     print('PASS:', len(parsed), 'HTML pages; all internal links, fragments and local assets')
+    entry = ROOT / 'index.html'
+    home = entry.read_text()
+    assert 'hero-copy' in home and 'explore-grid' in home, 'Root must serve the complete visual homepage'
+    assert 'http-equiv="refresh"' not in home and 'location.replace' not in home, 'Root must not redirect'
+    parser = Links()
+    parser.feed(home)
+    for link in parser.links:
+        u = urlsplit(link)
+        if u.scheme or u.netloc:
+            continue
+        target = (ROOT / unquote(u.path)).resolve() if u.path else entry.resolve()
+        assert target.is_relative_to(ROOT), 'Root entry link escapes project'
+        assert target.exists(), 'Broken root homepage link: ' + link
+        assert not u.path.endswith('.md'), 'Root homepage exposes Markdown navigation'
+        if not u.path and u.fragment:
+            assert u.fragment in parser.ids, 'Root homepage missing anchor'
+    print('PASS: root serves a complete frontend; visitor navigation contains no Markdown links')
 
 
 if __name__ == '__main__':
