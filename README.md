@@ -2,6 +2,10 @@
 
 每個數字背後，都有一個人。這個繁體中文籃球專題從金州勇士出發，把全隊球員的場上數據、生涯與場外故事放在同一個網站。
 
+- [公開網站](https://melloonn.github.io/beyond-the-court/)
+- [GitHub Repository](https://github.com/melloonn/beyond-the-court)
+- [專案開發規則 AGENTS.md](AGENTS.md)
+
 ## 第一版內容
 
 - 18 位名單球員，每人有獨立網址與個人頁。
@@ -61,8 +65,10 @@ node --test tests/interaction.test.cjs
 
 ## 作業繳交
 
-繳交用文字及新增內容說明見 [docs/submission.md](docs/submission.md)。GitHub Repository 與公開網址將於實際發布成功後填入。
+繳交用文字、公開網址及新增內容說明見 [docs/submission.md](docs/submission.md)。
 
 ## GitHub Pages 發布
 
 經確認後，使用 `python3 scripts/build.py --pages` 將輸出同步至 `docs/`，保留既有說明文件。GitHub Pages 來源設定為 `main` 分支的 `/docs`，不需 GitHub Actions、npm 或伺服器。變更資料後，重新建置並提交新的 `docs/` 才會更新公開網站。`dist/` 是本機建置輸出，列入 gitignore；`docs/` 是公開發布輸出，需提交。
+
+若 Pages 來源選擇 `main` 的根目錄 `/`，根目錄 `index.html` 會導向 `docs/index.html`；根目錄 `.nojekyll` 保留靜態檔案。兩種來源都可瀏覽網站。本次公開站點已確認入口轉址、網站首頁及部署成功。
