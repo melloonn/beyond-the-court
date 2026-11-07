@@ -10,3 +10,5 @@ favicon 籃球 SVG、球場線條、背號構圖、故事卡片與配色為本�
 
 ## 字體
 介面提供系統字體 fallback，中文優先可用的 Noto Sans TC／PingFang TC 等字體；英文標題採 Barlow Condensed，內文 DM Sans。英文字體下載自 Google Fonts，採本機託管，不需連接外部字體服務；SIL Open Font License 文件保留於 `src/assets/fonts/`。
+
+`public/images/warriors-bridge.svg` 為本專案原創灣區大橋線條插畫，用於勇士專題識別，並非官方隊徽。

@@ -133,8 +133,14 @@ def main():
     print('PASS:', len(parsed), 'HTML pages; all internal links, fragments and local assets')
     entry = ROOT / 'index.html'
     home = entry.read_text()
-    assert 'hero-copy' in home and 'explore-grid' in home, 'Root must serve the complete visual homepage'
+    assert 'gateway-hero' in home and 'team-entry' in home, 'Root must serve the complete visual homepage'
     assert 'http-equiv="refresh"' not in home and 'location.replace' not in home, 'Root must not redirect'
+    warriors = (dist / 'warriors.html').read_text()
+    assert 'team-bridge-art' in warriors and 'hero-player' not in warriors, 'Team hero must use team artwork'
+    assert 'warriors.html' in home and 'id="teams"' in home, 'Homepage must lead to team page'
+    for file in parsed:
+        text = file.read_text()
+        assert not any(term in text for term in ['資料截至', '快照取得', '編輯／查核', '統計快照 2026']), 'Verification timestamp exposed: ' + str(file)
     parser = Links()
     parser.feed(home)
     for link in parser.links:
