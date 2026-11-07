@@ -1,0 +1,1103 @@
+{
+  "id": "401909285",
+  "date": "2026-10-31T02:00Z",
+  "season": "2026-27",
+  "seasonType": "Regular Season",
+  "status": "STATUS_FINAL",
+  "venue": "Chase Center",
+  "teams": [
+    {
+      "id": "9",
+      "name": "Golden State Warriors",
+      "abbr": "GS",
+      "homeAway": "home",
+      "score": 112,
+      "winner": true,
+      "quarters": [
+        "15",
+        "38",
+        "32",
+        "27"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Los Angeles Lakers",
+      "abbr": "LAL",
+      "homeAway": "away",
+      "score": 95,
+      "winner": false,
+      "quarters": [
+        "38",
+        "15",
+        "27",
+        "15"
+      ]
+    }
+  ],
+  "boxscore": [
+    {
+      "teamId": "13",
+      "teamName": "Los Angeles Lakers",
+      "labels": [
+        "MIN",
+        "PTS",
+        "FG",
+        "3PT",
+        "FT",
+        "REB",
+        "AST",
+        "TO",
+        "STL",
+        "BLK",
+        "OREB",
+        "DREB",
+        "PF",
+        "+/-"
+      ],
+      "names": [
+        "MIN",
+        "PTS",
+        "FG",
+        "3PT",
+        "FT",
+        "REB",
+        "AST",
+        "TO",
+        "STL",
+        "BLK",
+        "OREB",
+        "DREB",
+        "PF",
+        "+/-"
+      ],
+      "athletes": [
+        {
+          "id": "4592691",
+          "name": "Jake LaRavia",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "28",
+            "10",
+            "3-7",
+            "2-5",
+            "2-4",
+            "2",
+            "0",
+            "3",
+            "1",
+            "1",
+            "1",
+            "1",
+            "4",
+            "-11"
+          ]
+        },
+        {
+          "id": "4433136",
+          "name": "Walker Kessler",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "31",
+            "10",
+            "4-7",
+            "0-0",
+            "2-3",
+            "13",
+            "2",
+            "1",
+            "0",
+            "5",
+            "5",
+            "8",
+            "0",
+            "+3"
+          ]
+        },
+        {
+          "id": "3907498",
+          "name": "Matisse Thybulle",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "28",
+            "10",
+            "2-6",
+            "1-3",
+            "5-5",
+            "3",
+            "0",
+            "1",
+            "3",
+            "0",
+            "2",
+            "1",
+            "4",
+            "-1"
+          ]
+        },
+        {
+          "id": "3945274",
+          "name": "Luka Doncic",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "37",
+            "37",
+            "12-27",
+            "6-16",
+            "7-8",
+            "7",
+            "5",
+            "3",
+            "1",
+            "2",
+            "1",
+            "6",
+            "2",
+            "+9"
+          ]
+        },
+        {
+          "id": "4066457",
+          "name": "Austin Reaves",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "37",
+            "21",
+            "9-19",
+            "1-6",
+            "2-2",
+            "4",
+            "5",
+            "8",
+            "1",
+            "1",
+            "2",
+            "2",
+            "4",
+            "-13"
+          ]
+        },
+        {
+          "id": "4278077",
+          "name": "Jarred Vanderbilt",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "13",
+            "0",
+            "0-0",
+            "0-0",
+            "0-0",
+            "3",
+            "3",
+            "1",
+            "0",
+            "0",
+            "2",
+            "1",
+            "1",
+            "-8"
+          ]
+        },
+        {
+          "id": "4278580",
+          "name": "Sandro Mamukelashvili",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "20",
+            "4",
+            "2-6",
+            "0-2",
+            "0-0",
+            "7",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "6",
+            "1",
+            "-23"
+          ]
+        },
+        {
+          "id": "4277811",
+          "name": "Collin Sexton",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "16",
+            "0",
+            "0-6",
+            "0-3",
+            "0-0",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "4",
+            "-19"
+          ]
+        },
+        {
+          "id": "4397014",
+          "name": "Quentin Grimes",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "26",
+            "3",
+            "1-3",
+            "1-3",
+            "0-2",
+            "3",
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "2",
+            "1",
+            "-13"
+          ]
+        },
+        {
+          "id": "4683774",
+          "name": "Bronny James",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "1",
+            "0",
+            "0-1",
+            "0-1",
+            "0-0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "-3"
+          ]
+        },
+        {
+          "id": "4702972",
+          "name": "Chris Manon",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "1",
+            "0",
+            "0-0",
+            "0-0",
+            "0-0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "-3"
+          ]
+        },
+        {
+          "id": "4868423",
+          "name": "Jaden Hardy",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "1",
+            "0",
+            "0-0",
+            "0-0",
+            "0-0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "-3"
+          ]
+        },
+        {
+          "id": "3155535",
+          "name": "Kevon Looney",
+          "starter": false,
+          "didNotPlay": true,
+          "reason": "COACH'S DECISION",
+          "values": []
+        },
+        {
+          "id": "5114350",
+          "name": "AK Okereke",
+          "starter": false,
+          "didNotPlay": true,
+          "reason": "COACH'S DECISION",
+          "values": []
+        }
+      ],
+      "totals": [
+        "",
+        "95",
+        "33-82",
+        "11-39",
+        "18-24",
+        "45",
+        "18",
+        "20",
+        "8",
+        "11",
+        "16",
+        "29",
+        "21",
+        ""
+      ]
+    },
+    {
+      "teamId": "9",
+      "teamName": "Golden State Warriors",
+      "labels": [
+        "MIN",
+        "PTS",
+        "FG",
+        "3PT",
+        "FT",
+        "REB",
+        "AST",
+        "TO",
+        "STL",
+        "BLK",
+        "OREB",
+        "DREB",
+        "PF",
+        "+/-"
+      ],
+      "names": [
+        "MIN",
+        "PTS",
+        "FG",
+        "3PT",
+        "FT",
+        "REB",
+        "AST",
+        "TO",
+        "STL",
+        "BLK",
+        "OREB",
+        "DREB",
+        "PF",
+        "+/-"
+      ],
+      "athletes": [
+        {
+          "id": "6589",
+          "name": "Draymond Green",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "32",
+            "2",
+            "1-3",
+            "0-2",
+            "0-0",
+            "4",
+            "9",
+            "1",
+            "3",
+            "1",
+            "1",
+            "3",
+            "1",
+            "+17"
+          ]
+        },
+        {
+          "id": "4997536",
+          "name": "Gui Santos",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "16",
+            "2",
+            "1-4",
+            "0-1",
+            "0-0",
+            "5",
+            "1",
+            "2",
+            "0",
+            "0",
+            "2",
+            "3",
+            "2",
+            "+9"
+          ]
+        },
+        {
+          "id": "5175737",
+          "name": "Yaxel Lendeborg",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "24",
+            "6",
+            "2-3",
+            "1-2",
+            "1-2",
+            "1",
+            "0",
+            "5",
+            "0",
+            "0",
+            "0",
+            "1",
+            "6",
+            "-20"
+          ]
+        },
+        {
+          "id": "3975",
+          "name": "Stephen Curry",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "31",
+            "31",
+            "11-23",
+            "8-14",
+            "1-1",
+            "4",
+            "6",
+            "2",
+            "1",
+            "1",
+            "0",
+            "4",
+            "0",
+            "+19"
+          ]
+        },
+        {
+          "id": "4709138",
+          "name": "Brandin Podziemski",
+          "starter": true,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "33",
+            "21",
+            "7-15",
+            "4-9",
+            "3-5",
+            "5",
+            "6",
+            "1",
+            "2",
+            "1",
+            "2",
+            "3",
+            "1",
+            "+7"
+          ]
+        },
+        {
+          "id": "2990969",
+          "name": "Georges Niang",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "19",
+            "11",
+            "4-5",
+            "3-3",
+            "0-0",
+            "5",
+            "1",
+            "1",
+            "0",
+            "1",
+            "2",
+            "3",
+            "2",
+            "+21"
+          ]
+        },
+        {
+          "id": "4897449",
+          "name": "Malevy Leons",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "0",
+            "0",
+            "0-0",
+            "0-0",
+            "0-0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "+2"
+          ]
+        },
+        {
+          "id": "3213",
+          "name": "Al Horford",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "17",
+            "3",
+            "1-6",
+            "1-4",
+            "0-0",
+            "2",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "2",
+            "2",
+            "-14"
+          ]
+        },
+        {
+          "id": "4397886",
+          "name": "Charles Bassey",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "9",
+            "6",
+            "2-4",
+            "0-1",
+            "2-2",
+            "4",
+            "1",
+            "1",
+            "0",
+            "1",
+            "2",
+            "2",
+            "1",
+            "+14"
+          ]
+        },
+        {
+          "id": "3134903",
+          "name": "Gary Payton II",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "8",
+            "2",
+            "1-5",
+            "0-1",
+            "0-0",
+            "4",
+            "0",
+            "0",
+            "2",
+            "0",
+            "3",
+            "1",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "id": "4066436",
+          "name": "De'Anthony Melton",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "21",
+            "16",
+            "5-10",
+            "4-6",
+            "2-2",
+            "5",
+            "3",
+            "1",
+            "2",
+            "0",
+            "1",
+            "4",
+            "2",
+            "+9"
+          ]
+        },
+        {
+          "id": "4397040",
+          "name": "Brandon Williams",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "17",
+            "9",
+            "2-8",
+            "0-2",
+            "5-5",
+            "2",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "2",
+            "-1"
+          ]
+        },
+        {
+          "id": "4433149",
+          "name": "LJ Cryer",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "0",
+            "0",
+            "0-0",
+            "0-0",
+            "0-0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "+2"
+          ]
+        },
+        {
+          "id": "4897262",
+          "name": "Will Richard",
+          "starter": false,
+          "didNotPlay": false,
+          "reason": "COACH'S DECISION",
+          "values": [
+            "13",
+            "3",
+            "1-3",
+            "1-1",
+            "0-0",
+            "3",
+            "2",
+            "0",
+            "0",
+            "0",
+            "1",
+            "2",
+            "1",
+            "+20"
+          ]
+        }
+      ],
+      "totals": [
+        "",
+        "112",
+        "38-89",
+        "22-46",
+        "14-17",
+        "44",
+        "31",
+        "15",
+        "11",
+        "5",
+        "15",
+        "29",
+        "21",
+        ""
+      ]
+    }
+  ],
+  "teamStats": [
+    {
+      "team": {
+        "id": "13",
+        "uid": "s:40~l:46~t:13",
+        "slug": "los-angeles-lakers",
+        "location": "Los Angeles",
+        "name": "Lakers",
+        "abbreviation": "LAL",
+        "displayName": "Los Angeles Lakers",
+        "shortDisplayName": "Lakers",
+        "color": "552583",
+        "alternateColor": "fdb927",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+      },
+      "statistics": [
+        {
+          "name": "fieldGoalsMade-fieldGoalsAttempted",
+          "displayValue": "33-82",
+          "label": "FG"
+        },
+        {
+          "name": "fieldGoalPct",
+          "displayValue": "40",
+          "abbreviation": "FG%",
+          "label": "Field Goal %"
+        },
+        {
+          "name": "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+          "displayValue": "11-39",
+          "label": "3PT"
+        },
+        {
+          "name": "threePointFieldGoalPct",
+          "displayValue": "28",
+          "abbreviation": "3P%",
+          "label": "Three Point %"
+        },
+        {
+          "name": "freeThrowsMade-freeThrowsAttempted",
+          "displayValue": "18-24",
+          "label": "FT"
+        },
+        {
+          "name": "freeThrowPct",
+          "displayValue": "75",
+          "abbreviation": "FT%",
+          "label": "Free Throw %"
+        },
+        {
+          "name": "totalRebounds",
+          "displayValue": "45",
+          "abbreviation": "REB",
+          "label": "Rebounds"
+        },
+        {
+          "name": "offensiveRebounds",
+          "displayValue": "16",
+          "abbreviation": "OR",
+          "label": "Offensive Rebounds"
+        },
+        {
+          "name": "defensiveRebounds",
+          "displayValue": "29",
+          "abbreviation": "DR",
+          "label": "Defensive Rebounds"
+        },
+        {
+          "name": "assists",
+          "displayValue": "18",
+          "abbreviation": "AST",
+          "label": "Assists"
+        },
+        {
+          "name": "steals",
+          "displayValue": "8",
+          "abbreviation": "STL",
+          "label": "Steals"
+        },
+        {
+          "name": "blocks",
+          "displayValue": "11",
+          "abbreviation": "BLK",
+          "label": "Blocks"
+        },
+        {
+          "name": "turnovers",
+          "displayValue": "20",
+          "abbreviation": "TO",
+          "label": "Turnovers"
+        },
+        {
+          "name": "teamTurnovers",
+          "displayValue": "2",
+          "abbreviation": "TTO",
+          "label": "Team Turnovers"
+        },
+        {
+          "name": "totalTurnovers",
+          "displayValue": "22",
+          "abbreviation": "ToTO",
+          "label": "Total Turnovers"
+        },
+        {
+          "name": "technicalFouls",
+          "displayValue": "4",
+          "abbreviation": "TECH",
+          "label": "Technical Fouls"
+        },
+        {
+          "name": "totalTechnicalFouls",
+          "displayValue": "4",
+          "abbreviation": "TECH",
+          "label": "Total Technical Fouls"
+        },
+        {
+          "name": "flagrantFouls",
+          "displayValue": "0",
+          "abbreviation": "FLAG",
+          "label": "Flagrant Fouls"
+        },
+        {
+          "name": "turnoverPoints",
+          "displayValue": "27",
+          "abbreviation": "Points Conceded Off Turnovers",
+          "label": "Points Conceded Off Turnovers"
+        },
+        {
+          "name": "fastBreakPoints",
+          "displayValue": "9",
+          "abbreviation": "FBPs",
+          "label": "Fast Break Points"
+        },
+        {
+          "name": "pointsInPaint",
+          "displayValue": "36",
+          "abbreviation": "PIP",
+          "label": "Points in Paint"
+        },
+        {
+          "name": "fouls",
+          "displayValue": "21",
+          "abbreviation": "PF",
+          "label": "Fouls"
+        },
+        {
+          "name": "largestLead",
+          "displayValue": "25",
+          "abbreviation": "LL",
+          "label": "Largest Lead"
+        },
+        {
+          "name": "leadChanges",
+          "displayValue": "2",
+          "abbreviation": "LC",
+          "label": "Lead Changes"
+        },
+        {
+          "name": "leadPercentage",
+          "displayValue": "70",
+          "abbreviation": "LPCT",
+          "label": "Percent Led"
+        }
+      ],
+      "displayOrder": 1,
+      "homeAway": "away"
+    },
+    {
+      "team": {
+        "id": "9",
+        "uid": "s:40~l:46~t:9",
+        "slug": "golden-state-warriors",
+        "location": "Golden State",
+        "name": "Warriors",
+        "abbreviation": "GS",
+        "displayName": "Golden State Warriors",
+        "shortDisplayName": "Warriors",
+        "color": "fdb927",
+        "alternateColor": "1d428a",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "statistics": [
+        {
+          "name": "fieldGoalsMade-fieldGoalsAttempted",
+          "displayValue": "38-89",
+          "label": "FG"
+        },
+        {
+          "name": "fieldGoalPct",
+          "displayValue": "43",
+          "abbreviation": "FG%",
+          "label": "Field Goal %"
+        },
+        {
+          "name": "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+          "displayValue": "22-46",
+          "label": "3PT"
+        },
+        {
+          "name": "threePointFieldGoalPct",
+          "displayValue": "48",
+          "abbreviation": "3P%",
+          "label": "Three Point %"
+        },
+        {
+          "name": "freeThrowsMade-freeThrowsAttempted",
+          "displayValue": "14-17",
+          "label": "FT"
+        },
+        {
+          "name": "freeThrowPct",
+          "displayValue": "82",
+          "abbreviation": "FT%",
+          "label": "Free Throw %"
+        },
+        {
+          "name": "totalRebounds",
+          "displayValue": "44",
+          "abbreviation": "REB",
+          "label": "Rebounds"
+        },
+        {
+          "name": "offensiveRebounds",
+          "displayValue": "15",
+          "abbreviation": "OR",
+          "label": "Offensive Rebounds"
+        },
+        {
+          "name": "defensiveRebounds",
+          "displayValue": "29",
+          "abbreviation": "DR",
+          "label": "Defensive Rebounds"
+        },
+        {
+          "name": "assists",
+          "displayValue": "31",
+          "abbreviation": "AST",
+          "label": "Assists"
+        },
+        {
+          "name": "steals",
+          "displayValue": "11",
+          "abbreviation": "STL",
+          "label": "Steals"
+        },
+        {
+          "name": "blocks",
+          "displayValue": "5",
+          "abbreviation": "BLK",
+          "label": "Blocks"
+        },
+        {
+          "name": "turnovers",
+          "displayValue": "15",
+          "abbreviation": "TO",
+          "label": "Turnovers"
+        },
+        {
+          "name": "teamTurnovers",
+          "displayValue": "2",
+          "abbreviation": "TTO",
+          "label": "Team Turnovers"
+        },
+        {
+          "name": "totalTurnovers",
+          "displayValue": "17",
+          "abbreviation": "ToTO",
+          "label": "Total Turnovers"
+        },
+        {
+          "name": "technicalFouls",
+          "displayValue": "0",
+          "abbreviation": "TECH",
+          "label": "Technical Fouls"
+        },
+        {
+          "name": "totalTechnicalFouls",
+          "displayValue": "0",
+          "abbreviation": "TECH",
+          "label": "Total Technical Fouls"
+        },
+        {
+          "name": "flagrantFouls",
+          "displayValue": "0",
+          "abbreviation": "FLAG",
+          "label": "Flagrant Fouls"
+        },
+        {
+          "name": "turnoverPoints",
+          "displayValue": "25",
+          "abbreviation": "Points Conceded Off Turnovers",
+          "label": "Points Conceded Off Turnovers"
+        },
+        {
+          "name": "fastBreakPoints",
+          "displayValue": "18",
+          "abbreviation": "FBPs",
+          "label": "Fast Break Points"
+        },
+        {
+          "name": "pointsInPaint",
+          "displayValue": "28",
+          "abbreviation": "PIP",
+          "label": "Points in Paint"
+        },
+        {
+          "name": "fouls",
+          "displayValue": "21",
+          "abbreviation": "PF",
+          "label": "Fouls"
+        },
+        {
+          "name": "largestLead",
+          "displayValue": "17",
+          "abbreviation": "LL",
+          "label": "Largest Lead"
+        },
+        {
+          "name": "leadChanges",
+          "displayValue": "2",
+          "abbreviation": "LC",
+          "label": "Lead Changes"
+        },
+        {
+          "name": "leadPercentage",
+          "displayValue": "28",
+          "abbreviation": "LPCT",
+          "label": "Percent Led"
+        }
+      ],
+      "displayOrder": 2,
+      "homeAway": "home"
+    }
+  ],
+  "source": {
+    "title": "ESPN 比賽紀錄",
+    "url": "https://www.espn.com/nba/boxscore/_/gameId/401909285",
+    "publisher": "ESPN",
+    "retrievedAt": "2026-11-07T08:56:11.312231+00:00"
+  },
+  "retrievedAt": "2026-11-07T08:56:11.312231+00:00"
+}

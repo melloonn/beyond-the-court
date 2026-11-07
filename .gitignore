@@ -1,0 +1,9 @@
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+data/candidate.json
+.env
+.env.*
+!.env.example
+*.tmp

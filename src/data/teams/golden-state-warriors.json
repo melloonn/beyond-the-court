@@ -1,0 +1,60 @@
+{
+  "id": "9",
+  "slug": "golden-state-warriors",
+  "name": "Golden State Warriors",
+  "nameZh": "金州勇士",
+  "season": "2026-27",
+  "seasonYear": 2027,
+  "seasonType": "Regular Season",
+  "venue": "Chase Center",
+  "location": "San Francisco, California",
+  "wins": 6,
+  "losses": 3,
+  "playerIds": [
+    "4397886",
+    "6430",
+    "4433149",
+    "3975",
+    "6589",
+    "3213",
+    "4703396",
+    "5175737",
+    "4897449",
+    "4066436",
+    "4432171",
+    "2990969",
+    "3134903",
+    "4709138",
+    "3102531",
+    "4897262",
+    "4997536",
+    "4397040"
+  ],
+  "gameIds": [
+    "401909937",
+    "401909919",
+    "401909905",
+    "401909285",
+    "401909888",
+    "401909876",
+    "401909860",
+    "401909850",
+    "401909092"
+  ],
+  "latestGameAt": "2026-11-06T03:00Z",
+  "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+  "sources": [
+    {
+      "title": "ESPN 勇士名單",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/gs/roster",
+      "publisher": "ESPN",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00"
+    },
+    {
+      "title": "ESPN 當季賽程",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/gs/schedule?season=2027&seasontype=2",
+      "publisher": "ESPN",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00"
+    }
+  ]
+}

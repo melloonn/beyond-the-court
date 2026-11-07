@@ -1,0 +1,460 @@
+{
+  "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+  "records": [
+    {
+      "key": "roster",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/gs/roster",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "d8a1bf1bacb0d8e4b7e534de9717352579a99c7985ae1594d4ed9b0caf3e23bb",
+      "file": "roster-d8a1bf1bacb0.json"
+    },
+    {
+      "key": "schedule",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/gs/schedule?season=2027&seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "f2f1469d9c27fc6b4f2958a9353f76372e061ffc3f9e73f8638324d66baf4584",
+      "file": "schedule-f2f1469d9c27.json"
+    },
+    {
+      "key": "player-4433149-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433149/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "7e27391d4e850aae655931e8c1c5cd8e47332d6861b354d4657574446874fa43",
+      "file": "player-4433149-playoffs-7e27391d4e85.json"
+    },
+    {
+      "key": "player-4397886-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397886/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "a92645c96f5d6ad527e575ca60a57b559965353f6865c2dddf713c843a643721",
+      "file": "player-4397886-playoffs-a92645c96f5d.json"
+    },
+    {
+      "key": "player-3975-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3975/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "007db3f9cea1c61b6da9804ea41b8fc8941b12f3d23f919a8458d5aa87b92b59",
+      "file": "player-3975-playoffs-007db3f9cea1.json"
+    },
+    {
+      "key": "player-6430-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6430/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "6bca300d01c9d1f2b989b6787e7f4f583ca725fae0dafcecd432cea865676d6c",
+      "file": "player-6430-gamelog-6bca300d01c9.json"
+    },
+    {
+      "key": "player-4433149-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433149/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "7e27391d4e850aae655931e8c1c5cd8e47332d6861b354d4657574446874fa43",
+      "file": "player-4433149-regular-7e27391d4e85.json"
+    },
+    {
+      "key": "player-4397886-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397886/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "bcf8f9b59ff3d9d0c56b491e346e8297588c78f200dcdb31e9bcaa4443776dc3",
+      "file": "player-4397886-regular-bcf8f9b59ff3.json"
+    },
+    {
+      "key": "player-6430-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6430/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "e5289c25b355ec9f9a2865554e2d3b576fd5c57cce466a8a4dc9f2e1e7c65b25",
+      "file": "player-6430-regular-e5289c25b355.json"
+    },
+    {
+      "key": "player-3975-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3975/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "80ce2cc8c7425ba3799c4254bcf5bc2c06065634a5b1138c2b65a71ac264e9ca",
+      "file": "player-3975-regular-80ce2cc8c742.json"
+    },
+    {
+      "key": "player-6430-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6430/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "448b56c7bd94b4c6f2e00fc0957ba27137fe1e9d8f5615fafb9ab99c97ec45f0",
+      "file": "player-6430-playoffs-448b56c7bd94.json"
+    },
+    {
+      "key": "player-3975-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3975/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "66e016110df7803ec4ba95cc83b7e57261e3e33c6f3296b3c48f57dcd56c307a",
+      "file": "player-3975-gamelog-66e016110df7.json"
+    },
+    {
+      "key": "player-4433149-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433149/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "ffb4714f9bd55747bbfc4729979cfe779d28d9dbafa05dfd7eb093adced1f45b",
+      "file": "player-4433149-gamelog-ffb4714f9bd5.json"
+    },
+    {
+      "key": "player-4397886-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397886/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "d1d49f46c2c91c2ba62a0e0cb910673266613ba438c9d818405cfa69ec696d9f",
+      "file": "player-4397886-gamelog-d1d49f46c2c9.json"
+    },
+    {
+      "key": "player-6589-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6589/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "6d307c413da4a78bb203c1d63b3af0a234418000deb014e098e7044f31534bd9",
+      "file": "player-6589-regular-6d307c413da4.json"
+    },
+    {
+      "key": "player-6589-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6589/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "46cf4935547a7450a6565e24a43d98df685161f3c1aed4205c2681fef1bc27fd",
+      "file": "player-6589-playoffs-46cf4935547a.json"
+    },
+    {
+      "key": "player-5175737-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5175737/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "145b8a4e2f1aca7abca8570b88b5231c1328c6c0a1af0fae10a2d4f31f6f10b3",
+      "file": "player-5175737-regular-145b8a4e2f1a.json"
+    },
+    {
+      "key": "player-4703396-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4703396/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "a165600bb0bbe27979c44977850a257ec8ce5e76716338a974115e861f35c1d6",
+      "file": "player-4703396-regular-a165600bb0bb.json"
+    },
+    {
+      "key": "player-5175737-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5175737/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "145b8a4e2f1aca7abca8570b88b5231c1328c6c0a1af0fae10a2d4f31f6f10b3",
+      "file": "player-5175737-playoffs-145b8a4e2f1a.json"
+    },
+    {
+      "key": "player-4703396-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4703396/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "a165600bb0bbe27979c44977850a257ec8ce5e76716338a974115e861f35c1d6",
+      "file": "player-4703396-playoffs-a165600bb0bb.json"
+    },
+    {
+      "key": "player-6589-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/6589/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "bd73b30e5b6f96feaf254412fa308024b7c7e83737a6d32c810fb106e60cf41c",
+      "file": "player-6589-gamelog-bd73b30e5b6f.json"
+    },
+    {
+      "key": "player-3213-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3213/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "e704b7c4c4044442e2f10a98dc55ca246a984c43843f14b3d7c94dd13968432d",
+      "file": "player-3213-playoffs-e704b7c4c404.json"
+    },
+    {
+      "key": "player-3213-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3213/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "2ab8b5bce3654432552326abdc5b4d8cc46d8b27dff4928c62f52ac2d8bdb7f1",
+      "file": "player-3213-regular-2ab8b5bce365.json"
+    },
+    {
+      "key": "player-3213-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3213/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "86cf79c6137930370c5f6cf05851d60cb3b72bca61fb33523ee96aa8e96e184e",
+      "file": "player-3213-gamelog-86cf79c61379.json"
+    },
+    {
+      "key": "player-4897449-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897449/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "33cd4d8b15c32eddfb5e4165a2f0d4509e4ad9960548a49f7e7fc1afc37afdef",
+      "file": "player-4897449-regular-33cd4d8b15c3.json"
+    },
+    {
+      "key": "player-4703396-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4703396/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "04bf7e43f65b70d343757f6614cf24ebd7f505c866ed5f5db5d720ea038dec03",
+      "file": "player-4703396-gamelog-04bf7e43f65b.json"
+    },
+    {
+      "key": "player-4897449-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897449/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "33cd4d8b15c32eddfb5e4165a2f0d4509e4ad9960548a49f7e7fc1afc37afdef",
+      "file": "player-4897449-playoffs-33cd4d8b15c3.json"
+    },
+    {
+      "key": "player-5175737-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/5175737/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "287241bd9986036919167183496d0b33b021ee0668c6c9ecaff0898c8c1fe640",
+      "file": "player-5175737-gamelog-287241bd9986.json"
+    },
+    {
+      "key": "player-4066436-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4066436/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "937439e7613985643d56d823a48fd9480ef6d3a83b3987d13b273e06d9c78a97",
+      "file": "player-4066436-regular-937439e76139.json"
+    },
+    {
+      "key": "player-4066436-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4066436/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "8529a38a3457f29d38a1aa58736af8c473eea3e3f03d2da26c44760b5c98dc04",
+      "file": "player-4066436-playoffs-8529a38a3457.json"
+    },
+    {
+      "key": "player-4066436-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4066436/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "5af01027cd613f90f5b82e60f9777fe715db7eca981418fc647888c65ae0619d",
+      "file": "player-4066436-gamelog-5af01027cd61.json"
+    },
+    {
+      "key": "player-4432171-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432171/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "9d7de50ae5ddc84c78f4fe7d403b7ca06983a2c1318ef173309102b861f9c912",
+      "file": "player-4432171-regular-9d7de50ae5dd.json"
+    },
+    {
+      "key": "player-4432171-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432171/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "6bca300d01c9d1f2b989b6787e7f4f583ca725fae0dafcecd432cea865676d6c",
+      "file": "player-4432171-gamelog-6bca300d01c9.json"
+    },
+    {
+      "key": "player-4897449-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897449/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "d18bf33b296168175f0c591385df0bc77f066e6cd151d29758f855c8f35bd4ee",
+      "file": "player-4897449-gamelog-d18bf33b2961.json"
+    },
+    {
+      "key": "player-4432171-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432171/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "b38221d2eee4c8e33ca6521c56ee1b2c5de7746203a2ef3c86223f8939e70da2",
+      "file": "player-4432171-playoffs-b38221d2eee4.json"
+    },
+    {
+      "key": "player-2990969-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/2990969/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "8c6fcc028ccfd0ab0378a10334933cde91549ea9c1280cea8486aa6031782534",
+      "file": "player-2990969-regular-8c6fcc028ccf.json"
+    },
+    {
+      "key": "player-2990969-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/2990969/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "52c25608507232aad20425262aea2ffeba1fde5c581583b057eafe52db0adedf",
+      "file": "player-2990969-playoffs-52c256085072.json"
+    },
+    {
+      "key": "player-2990969-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/2990969/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "96dc70a9762842574cd3c28113d896d60436b61c75c59dcbc540c7113772c813",
+      "file": "player-2990969-gamelog-96dc70a97628.json"
+    },
+    {
+      "key": "player-4709138-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4709138/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "d2d79be8507cbd8a2945d6dc300a6ec4ca99ef47eb65966f8b235a08849a83a1",
+      "file": "player-4709138-regular-d2d79be8507c.json"
+    },
+    {
+      "key": "player-3102531-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3102531/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "6609d14ec37818d8a77bc1c248f4ef61fe747128f5995338aa7732dac958a8dd",
+      "file": "player-3102531-gamelog-6609d14ec378.json"
+    },
+    {
+      "key": "player-3134903-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3134903/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "1416e5c36870a8b153afa86350d5ef61f5018027f542ca5d9e165d6b46b39c84",
+      "file": "player-3134903-regular-1416e5c36870.json"
+    },
+    {
+      "key": "player-4709138-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4709138/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "2b1680c203a5ef31cf7358b16cc0c3fc4bfb442053a4491f68492e201fd217df",
+      "file": "player-4709138-playoffs-2b1680c203a5.json"
+    },
+    {
+      "key": "player-3102531-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3102531/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "1c93ff63a91a2a23ac1ec95493614f170df446d91379551cc8c4c8c8d3ddbece",
+      "file": "player-3102531-regular-1c93ff63a91a.json"
+    },
+    {
+      "key": "player-3134903-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3134903/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "60fb38ea85a332704ad2b12479e738b7ec74ac2d15cc5b1408d48f1b647e5199",
+      "file": "player-3134903-playoffs-60fb38ea85a3.json"
+    },
+    {
+      "key": "player-3134903-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3134903/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "bad2b0b6a2b8d0ec7737e099e659937d4dd5b0b815157caf337c1c5fd3745c4e",
+      "file": "player-3134903-gamelog-bad2b0b6a2b8.json"
+    },
+    {
+      "key": "player-3102531-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3102531/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "61722a98bc015d2c93faf4ca319e2ee340ca75e8905714ab8fc2427c6a76548d",
+      "file": "player-3102531-playoffs-61722a98bc01.json"
+    },
+    {
+      "key": "player-4709138-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4709138/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "f06592f10520457f980575e09e4c1da0c162d77669f7ebb054c0815dc0c119ee",
+      "file": "player-4709138-gamelog-f06592f10520.json"
+    },
+    {
+      "key": "player-4897262-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897262/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "acadc3b9f34a78122a5c97850dce789f4fe5f75a1b47aeff572df79c7ef1e0fd",
+      "file": "player-4897262-regular-acadc3b9f34a.json"
+    },
+    {
+      "key": "player-4897262-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897262/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "acadc3b9f34a78122a5c97850dce789f4fe5f75a1b47aeff572df79c7ef1e0fd",
+      "file": "player-4897262-playoffs-acadc3b9f34a.json"
+    },
+    {
+      "key": "player-4897262-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4897262/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "b4e750f8aaddbca813d85b831f790b6faa87d51f5cb1885da4796e87591ee18e",
+      "file": "player-4897262-gamelog-b4e750f8aadd.json"
+    },
+    {
+      "key": "player-4997536-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4997536/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "c6a107cb3dc467d39f18bd73c4a12c0077fae76852f4a91717c954d2e6e06909",
+      "file": "player-4997536-regular-c6a107cb3dc4.json"
+    },
+    {
+      "key": "player-4997536-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4997536/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "c7c655bbb6884c7737cae495023b1e2ab1f6d1d4dd6dd820856bd599728cd158",
+      "file": "player-4997536-playoffs-c7c655bbb688.json"
+    },
+    {
+      "key": "player-4397040-regular",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397040/stats?seasontype=2",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "f175ed3883d6b56511da0df31a955e79e814bfd388466c9b0821543233af679b",
+      "file": "player-4397040-regular-f175ed3883d6.json"
+    },
+    {
+      "key": "player-4397040-playoffs",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397040/stats?seasontype=3",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "f175ed3883d6b56511da0df31a955e79e814bfd388466c9b0821543233af679b",
+      "file": "player-4397040-playoffs-f175ed3883d6.json"
+    },
+    {
+      "key": "player-4997536-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4997536/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "b5f435a94c09e7b177a3b02c72cf087ea232443e0cb64157047173874908ad19",
+      "file": "player-4997536-gamelog-b5f435a94c09.json"
+    },
+    {
+      "key": "player-4397040-gamelog",
+      "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397040/gamelog?season=2027",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "23f8aa742c9cb5bdd7ea2da6ab92852c6f7d84d34d44f18040ff609876903b91",
+      "file": "player-4397040-gamelog-23f8aa742c9c.json"
+    },
+    {
+      "key": "game-401909937",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909937",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "c45902fd9ade7ad2bb68d06bc74d3b95d1ed695e2c4589df39829afb940db2cb",
+      "file": "game-401909937-c45902fd9ade.json"
+    },
+    {
+      "key": "game-401909905",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909905",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "37d1324bb87ace2a72ce60ab0bd7f78981080bddd156c60b47528d4ab1a78a55",
+      "file": "game-401909905-37d1324bb87a.json"
+    },
+    {
+      "key": "game-401909285",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909285",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "ffd0a31de9b791e103d22a80579fb348ab3a1acf049c2def7bd18638d6a9983e",
+      "file": "game-401909285-ffd0a31de9b7.json"
+    },
+    {
+      "key": "game-401909919",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909919",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "083fddb9bcde09d947b6fdf650796768a82df128c2741a86ef3bb27d26fa4347",
+      "file": "game-401909919-083fddb9bcde.json"
+    },
+    {
+      "key": "game-401909876",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909876",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "d9593e2f66b7fa39a298649c2cc8cc409319a81e47a1364d2943e77a8a72978f",
+      "file": "game-401909876-d9593e2f66b7.json"
+    },
+    {
+      "key": "game-401909860",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909860",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "f214b211479126bd6e528ed4e124391a0e3d32233f857b2097446c452c82335e",
+      "file": "game-401909860-f214b2114791.json"
+    },
+    {
+      "key": "game-401909888",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909888",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "9170f8b5ab7f563d8aba8f72d64625ee523ccc9b7a4b15dea2816238c8784fd0",
+      "file": "game-401909888-9170f8b5ab7f.json"
+    },
+    {
+      "key": "game-401909850",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909850",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "17e37277e3bc55b1aea5f9880d4957a62709cfa2eaaf39490ffa95a1d91111df",
+      "file": "game-401909850-17e37277e3bc.json"
+    },
+    {
+      "key": "game-401909092",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401909092",
+      "retrievedAt": "2026-11-07T08:56:11.312231+00:00",
+      "sha256": "f3ab7ba57752bb655b950afaa6749fc8841b508e8097abb931bf67b0a3e69900",
+      "file": "game-401909092-f3ab7ba57752.json"
+    }
+  ]
+}
